@@ -1,4 +1,4 @@
-# Activitat: p-repas-java-00
+# Activitat: p-repas-java-00-sol (solució)
 
 ### Instruccions
 
